@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+button{
+    font-size: 18px;
+    height: 40px;
+    width: 280px;
+    border:double;
+    border-radius: 20px;
+    border-color:rgb(217, 84, 193);
+   
+  }
+
+  a{
+    color:rgb(15, 15, 13);
+  }
+  a:hover{
+    color:rgb(30, 180, 25);
+    font-size: 25px;
+  }
+
+  
+ 
+
+
